@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+.mainContainer{
+    height: 100vh;
+    display: flex;
+    background-color:#63738a;;
+    align-items: center;
+    justify-content: center;
+}
+.signUpCard{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 1px 2px #888888;
+}
+.signForm{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+
+
+}
+.headerContent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+#blackLine{
+    display: flex;
+    height: 2px;
+    width: 30%;
+    background-color: #d4d4d4;
+}

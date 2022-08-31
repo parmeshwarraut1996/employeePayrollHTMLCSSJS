@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Css/home.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;
+        0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <title>Employee Payroll Portal</title>
+</head>
+
+<body>
+    <!-- UC14 -->
+    <header class="header-content header">
+        <div class="logo-content">
+            <img src="../Assets/images/logo.png" width=60px alt="logo">
+            <div>
+                <span class="emp-text ">EMPLOYEE</span>
+                <span class="emp-text emp-payroll">PAYROLL</span>
+            </div>
+        </div>
+    </header>
+    <!-- UC15 -->
+    <div class="main-content">
+        <div class="header-content">
+            <div class="emp-detail-text">
+                Employee Details <div class="emp-count">10</div>
+            </div>
+            <a href="./employeePayrollApp.html" class="add-button">
+                <img src="../Assets/icons/add-24px.svg" width="35px" alt="" />Add User</a>
+        </div>
+        <div class="table-main">
+            <table class="table" id="display"></table>
+        </div>
+    </div>
+    <script src="../JavaScript/home.js"></script>
+    <script src="../JavaScript/site_properties.js"></script>
+    <script src="../JavaScript/utility.js"></script>
+    <script src="../JavaScript/employeePayrollApp.js"></script>
+    <script src="../JavaScript/http_services.js"></script>
+</body>
+
+</html>

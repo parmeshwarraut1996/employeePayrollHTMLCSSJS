@@ -1,0 +1,177 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "_name": "Rachel",
+      "_gender": "female",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "400000",
+      "_startDate": "24 Dec 2019",
+      "_note": "hi",
+      "_profilePic": "../Assets/profile-images/Ellipse -1.png",
+      "id": 3
+    },
+    {
+      "_name": "Gunthur",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "397500",
+      "_note": "Doing ",
+      "_startDate": "12 Dec 2020",
+      "id": 4
+    },
+    {
+      "_name": "Chandler",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "342700",
+      "_note": "saxasax",
+      "_startDate": "1 Dec 2020",
+      "id": 5
+    },
+    {
+      "_name": "Ross",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Sales",
+        "Finance",
+        "Engineer"
+      ],
+      "_salary": "342000",
+      "_note": "xascada",
+      "_startDate": "1 Dec 2020",
+      "id": 6
+    },
+    {
+      "_name": "Eddie",
+      "_profilePic": "../Assets/profile-images/Ellipse -1.png",
+      "_gender": "female",
+      "_department": [
+        "Sales",
+        "Finance"
+      ],
+      "_salary": "325200",
+      "_note": "aaada",
+      "_startDate": "1 Dec 2020",
+      "id": 7
+    },
+    {
+      "_name": "Ramorey",
+      "_profilePic": "../Assets/profile-images/Ellipse -7.png",
+      "_gender": "female",
+      "_department": [
+        "Sales",
+        "Finance"
+      ],
+      "_salary": "400000",
+      "_note": "sasadsd",
+      "_startDate": "1 Dec 2020",
+      "id": 8
+    },
+    {
+      "_name": "Susan",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "329900",
+      "_note": "sdasdad",
+      "_startDate": "21 Dec 2020",
+      "id": 9
+    },
+    {
+      "_name": "Monica Geller",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Sales"
+      ],
+      "_salary": "318500",
+      "_note": "xsaxsa",
+      "_startDate": "1 Dec 2020",
+      "id": 10
+    },
+    {
+      "_name": "Richard Peterson",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "320500",
+      "_note": "ggjk",
+      "_startDate": "1 Dec 2020",
+      "id": 11
+    },
+    {
+      "_name": "Param",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "400000",
+      "_note": "test",
+      "_startDate": "1 Jan 2020",
+      "id": 12
+    },
+    {
+      "_name": "John",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "female",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "400000",
+      "_note": "test",
+      "_startDate": "1 Jan 2020",
+      "id": 13
+    },
+    {
+      "_name": "Nijam",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "400000",
+      "_note": "test json servcer data",
+      "_startDate": "1 Jan 2020",
+      "id": 14
+    },
+    {
+      "_name": "John",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "400000",
+      "_note": "debug",
+      "_startDate": "1 Jan 2020",
+      "id": 15
+    },
+    {
+      "_name": "Nijam",
+      "_profilePic": "../Assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "400000",
+      "_note": "debug",
+      "_startDate": "1 Jan 2020",
+      "id": 16
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "EmployeePayrollApp-HTML-CSS-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharambeakshay/EmployeePayrollApp-HTML-CSS-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharambeakshay/EmployeePayrollApp-HTML-CSS-JS/issues"
+  },
+  "homepage": "https://github.com/bharambeakshay/EmployeePayrollApp-HTML-CSS-JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
